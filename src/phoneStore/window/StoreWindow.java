@@ -99,8 +99,6 @@ public class StoreWindow extends JFrame {
 	public StoreWindow(StoreStart ss) {
 		this.ss = ss;
 		makeWindow();
-
-		//dba.chkId("steve5");
 	}
 
 //----------------------- detail logic ---------------------------------------------//
